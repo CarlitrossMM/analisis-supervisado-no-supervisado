@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Modelos grandes
+*.h5
+*.pkl
+*.joblib
+
+# Sistema
+.DS_Store
+Thumbs.db
